@@ -149,7 +149,8 @@ body {
 .githubref {
   display: flex;
   position: absolute;
-  bottom: 0;
+  left:0;
+  top: 0;
   width: auto;
   height: auto;
   background: #ffffff;
